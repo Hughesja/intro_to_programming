@@ -7,5 +7,5 @@ last_name = gets.chomp
 puts "Welcome " + first_name + " " + last_name
 
 10.times do
-    puts 
+    puts first_name + " " + last_name
 end
